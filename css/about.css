@@ -1,0 +1,15 @@
+.about-img{
+    height: 800px;
+    width: 1000;
+    margin-left: 200px;
+}
+.about-div{
+    background-color: black;
+    color: white;
+    border-radius:10px ;
+    border:1px solid white;
+    padding: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 1px 1px 5px 2px black;
+}
